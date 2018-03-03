@@ -15,7 +15,7 @@ import com.robotium.solo.Solo;
 
 @SuppressWarnings("rawtypes")
 public class AndriodN extends ActivityInstrumentationTestCase2 {
-	private static final String LAUNCHER_ACTIVITY_FULL_CLASSNAME = "com.peel.main.Main";
+	private static final String LAUNCHER_ACTIVITY_FULL_CLASSNAME = "com.haum.main.Main";
 	private static Class<?> launcherActivityClass;
 	static 
 	{
